@@ -59,6 +59,10 @@ button:active {
 .dark-mode {
     background-color:black;
     color:white;
+
+    .standard {
+        color:white;
+    }
 }
 .listColor {
     color:white;
